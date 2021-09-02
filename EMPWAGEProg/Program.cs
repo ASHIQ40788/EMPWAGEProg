@@ -10,6 +10,8 @@ namespace EMPWAGEProg
     {
         static void Main(string[] args)
         {
+            //welcome to the EMPWAGEProgram
+            //ADD A EMPWAGEUC1
         }
     }
 }
